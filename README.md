@@ -1,10 +1,5 @@
 # 📊 Retail Sales & Profit Analysis Dashboard  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Jahnavi123-kakumani/Retail-Sales-Profit-Analysis-Dashboard?style=flat-square)  
-![GitHub repo size](https://img.shields.io/github/repo-size/Jahnavi123-kakumani/Retail-Sales-Profit-Analysis-Dashboard?color=blue&style=flat-square)  
-![GitHub stars](https://img.shields.io/github/stars/Jahnavi123-kakumani/Retail-Sales-Profit-Analysis-Dashboard?style=social)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=white&style=flat-square)  
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)  
 
 ---
 
